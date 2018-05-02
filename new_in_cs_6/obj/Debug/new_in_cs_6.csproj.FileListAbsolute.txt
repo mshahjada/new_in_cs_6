@@ -1,0 +1,6 @@
+c:\users\bs121\documents\visual studio 2017\Projects\new_in_cs_6\new_in_cs_6\bin\Debug\new_in_cs_6.exe.config
+c:\users\bs121\documents\visual studio 2017\Projects\new_in_cs_6\new_in_cs_6\bin\Debug\new_in_cs_6.exe
+c:\users\bs121\documents\visual studio 2017\Projects\new_in_cs_6\new_in_cs_6\bin\Debug\new_in_cs_6.pdb
+c:\users\bs121\documents\visual studio 2017\Projects\new_in_cs_6\new_in_cs_6\obj\Debug\new_in_cs_6.csprojResolveAssemblyReference.cache
+c:\users\bs121\documents\visual studio 2017\Projects\new_in_cs_6\new_in_cs_6\obj\Debug\new_in_cs_6.exe
+c:\users\bs121\documents\visual studio 2017\Projects\new_in_cs_6\new_in_cs_6\obj\Debug\new_in_cs_6.pdb
