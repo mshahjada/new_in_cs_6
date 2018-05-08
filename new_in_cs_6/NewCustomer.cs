@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace new_in_cs_6
 {
-    class NewCustomer
+    public class NewCustomer
     {
         //read only auto property make sure it's immutable
         //only can change through constructor
@@ -18,7 +18,11 @@ namespace new_in_cs_6
         public string FirstName { get; } = string.Empty; //property initizlizer
         public string LastName { get; } = string.Empty;
 
+        public string Address { get; set; }
+
         //Expression bodied member function
         public string FullName => $"{FirstName} {LastName}";
+
+        public double GetTotalAmount() => 60*3;
     }
 }
